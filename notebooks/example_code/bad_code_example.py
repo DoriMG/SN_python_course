@@ -42,6 +42,9 @@ plt.plot(H[2,:].T,)#color=colors[i] )
 plt.xlabel('Frames')
 plt.ylabel('Component 1 weight')
 
+for h in H:
+    
+
 
 
 
