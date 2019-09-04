@@ -6,6 +6,7 @@ You can find the lecture capture for the course here:
 * Thursday afternoon: https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=efb28276-8175-49ac-88d1-aab100c6a392
 * Friday morning: https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d874dba3-88dc-4d31-8f0f-aab2008f9a49
 * Friday afternoon: https://sussex.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=8c1bd523-f22d-446b-84ee-aab200d38059
+
 I'm working on getting proper subtitles for this (there should be automatically generated, but they might not always be accurate).
 
 Prerequisites for course:
